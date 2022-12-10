@@ -1,0 +1,411 @@
+[
+    {
+	"page": 1,
+	"results": [
+		{
+			"adult": false,
+			"backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+			"genre_ids": [
+				28,
+				14,
+				878
+			],
+			"id": 436270,
+			"original_language": "en",
+			"original_title": "Black Adam",
+			"overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+			"popularity": 5120.041,
+			"poster_path": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+			"release_date": "2022-10-19",
+			"title": "Black Adam",
+			"video": false,
+			"vote_average": 7.3,
+			"vote_count": 2612
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/7zQJYV02yehWrQN6NjKsBorqUUS.jpg",
+			"genre_ids": [
+				28,
+				18,
+				36
+			],
+			"id": 724495,
+			"original_language": "en",
+			"original_title": "The Woman King",
+			"overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+			"popularity": 3173.069,
+			"poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+			"release_date": "2022-09-15",
+			"title": "The Woman King",
+			"video": false,
+			"vote_average": 7.9,
+			"vote_count": 662
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg",
+			"genre_ids": [
+				14,
+				28,
+				35,
+				80
+			],
+			"id": 1013860,
+			"original_language": "en",
+			"original_title": "R.I.P.D. 2: Rise of the Damned",
+			"overview": "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead.",
+			"popularity": 2116.153,
+			"poster_path": "/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+			"release_date": "2022-11-15",
+			"title": "R.I.P.D. 2: Rise of the Damned",
+			"video": false,
+			"vote_average": 6.7,
+			"vote_count": 218
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+			"genre_ids": [
+				14,
+				28,
+				12
+			],
+			"id": 736526,
+			"original_language": "no",
+			"original_title": "Troll",
+			"overview": "Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?",
+			"popularity": 3023.079,
+			"poster_path": "/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+			"release_date": "2022-12-01",
+			"title": "Troll",
+			"video": false,
+			"vote_average": 6.9,
+			"vote_count": 442
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/vmDa8HijINCAFYKqsMz0YM3sVyE.jpg",
+			"genre_ids": [
+				80,
+				28,
+				53
+			],
+			"id": 747803,
+			"original_language": "en",
+			"original_title": "One Way",
+			"overview": "On the run with a bag full of cash after a robbing his former crime boss—and a potentially fatal wound—Freddy slips onto a bus headed into the unrelenting California desert. With his life slipping through his fingers, Freddy is left with very few choices to survive.",
+			"popularity": 1663.77,
+			"poster_path": "/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg",
+			"release_date": "2022-09-02",
+			"title": "One Way",
+			"video": false,
+			"vote_average": 7,
+			"vote_count": 31
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+			"genre_ids": [
+				28,
+				12,
+				878
+			],
+			"id": 505642,
+			"original_language": "en",
+			"original_title": "Black Panther: Wakanda Forever",
+			"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+			"popularity": 1623.383,
+			"poster_path": "/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+			"release_date": "2022-11-09",
+			"title": "Black Panther: Wakanda Forever",
+			"video": false,
+			"vote_average": 7.5,
+			"vote_count": 1262
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/jCY35GkjwWUmoPO9EV1lWL6kuyj.jpg",
+			"genre_ids": [
+				28,
+				12,
+				53
+			],
+			"id": 855440,
+			"original_language": "es",
+			"original_title": "Polar",
+			"overview": "MG, a policewoman who has been expelled from the Corps due to the problems with alcohol and drugs that she has had since the loss of her son, receives a call from a man asking her to look for Macarena Gómez, a popular TV actress.",
+			"popularity": 1565.985,
+			"poster_path": "/efuKHH9LqBZB67AS87kprLgaYO8.jpg",
+			"release_date": "2022-10-26",
+			"title": "Polar",
+			"video": false,
+			"vote_average": 6.5,
+			"vote_count": 2
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/au4HUSWDRadIcl9CqySlw1kJMfo.jpg",
+			"genre_ids": [
+				80,
+				28,
+				53
+			],
+			"id": 829799,
+			"original_language": "en",
+			"original_title": "Paradise City",
+			"overview": "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+			"popularity": 1394.538,
+			"poster_path": "/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",
+			"release_date": "2022-11-11",
+			"title": "Paradise City",
+			"video": false,
+			"vote_average": 6.2,
+			"vote_count": 40
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/5aSvzECXrtABcIh7fZYkH2K6ttC.jpg",
+			"genre_ids": [
+				28,
+				53,
+				80
+			],
+			"id": 972313,
+			"original_language": "en",
+			"original_title": "Blowback",
+			"overview": "When a master thief is sabotaged during a bank heist and left for dead, he seeks revenge on his former crew one target at a time. Now, with the cops and the mob closing in, he's in the race of his life to reclaim an untold fortune in cryptocurrency from those who double-crossed him.",
+			"popularity": 1083.364,
+			"poster_path": "/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
+			"release_date": "2022-06-17",
+			"title": "Blowback",
+			"video": false,
+			"vote_average": 6.1,
+			"vote_count": 23
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
+			"genre_ids": [
+				28,
+				18,
+				53
+			],
+			"id": 948276,
+			"original_language": "fr",
+			"original_title": "Balle perdue 2",
+			"overview": "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.",
+			"popularity": 1033.183,
+			"poster_path": "/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg",
+			"release_date": "2022-11-10",
+			"title": "Lost Bullet 2",
+			"video": false,
+			"vote_average": 6.6,
+			"vote_count": 154
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/8Tr79lfoCkOYRg8SYwWit4OoQLi.jpg",
+			"genre_ids": [
+				878,
+				28
+			],
+			"id": 872177,
+			"original_language": "en",
+			"original_title": "Corrective Measures",
+			"overview": "Set in San Tiburon, the world's most dangerous maximum-security penitentiary and home to the world's most treacherous superpowered criminals, where tensions among the inmates and staff heighten, leading to anarchy that engulfs the prison and order is turned upside down.",
+			"popularity": 946.966,
+			"poster_path": "/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg",
+			"release_date": "2022-04-29",
+			"title": "Corrective Measures",
+			"video": false,
+			"vote_average": 5.2,
+			"vote_count": 37
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/yNib9QAiyaopUJbaayKQ2xK7mYf.jpg",
+			"genre_ids": [
+				18,
+				28,
+				10752
+			],
+			"id": 966220,
+			"original_language": "uk",
+			"original_title": "Снайпер. Білий ворон",
+			"overview": "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges “sniper terror” for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a “scar” and Mykola is ready to sacrifice his life.",
+			"popularity": 886.619,
+			"poster_path": "/lZOODJzwuQo0etJJyBBZJOSdZcW.jpg",
+			"release_date": "2022-05-03",
+			"title": "Sniper: The White Raven",
+			"video": false,
+			"vote_average": 7.6,
+			"vote_count": 151
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/sUuzl04qNIYsnwCLQpZ2RSvXA1V.jpg",
+			"genre_ids": [
+				35,
+				28,
+				53
+			],
+			"id": 792775,
+			"original_language": "is",
+			"original_title": "Leynilögga",
+			"overview": "When Bússi, Iceland's toughest cop, is forced to work with a new partner to solve a series of bank robberies, the pressure to close the case as soon as possible proves too much for him.",
+			"popularity": 1010.505,
+			"poster_path": "/jnWyZsaCl3Ke6u6ReSmBRO8S1rX.jpg",
+			"release_date": "2022-05-23",
+			"title": "Cop Secret",
+			"video": false,
+			"vote_average": 6.4,
+			"vote_count": 34
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/3RJ0B8JnwuOaQf6qmwTILXibcJj.jpg",
+			"genre_ids": [
+				28,
+				878,
+				14
+			],
+			"id": 941520,
+			"original_language": "en",
+			"original_title": "Alien Sniperess",
+			"overview": "A female sniper on military leave promises to fulfill her fiancé’s dying wish until she encounters a hostile alien invasion and is tasked with saving countless lives.",
+			"popularity": 1394.992,
+			"poster_path": "/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg",
+			"release_date": "2022-04-08",
+			"title": "Alien Sniperess",
+			"video": false,
+			"vote_average": 1.8,
+			"vote_count": 4
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+			"genre_ids": [
+				878,
+				28,
+				12
+			],
+			"id": 76600,
+			"original_language": "en",
+			"original_title": "Avatar: The Way of Water",
+			"overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+			"popularity": 963.701,
+			"poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+			"release_date": "2022-12-14",
+			"title": "Avatar: The Way of Water",
+			"video": false,
+			"vote_average": 8.3,
+			"vote_count": 16
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+			"genre_ids": [
+				28,
+				12,
+				14,
+				878
+			],
+			"id": 19995,
+			"original_language": "en",
+			"original_title": "Avatar",
+			"overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+			"popularity": 741.805,
+			"poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+			"release_date": "2009-12-15",
+			"title": "Avatar",
+			"video": false,
+			"vote_average": 7.5,
+			"vote_count": 26733
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/AokFVAl1JVooW1uz2V2vxNUxfit.jpg",
+			"genre_ids": [
+				36,
+				28,
+				18
+			],
+			"id": 551271,
+			"original_language": "en",
+			"original_title": "Medieval",
+			"overview": "The story of 14th century Czech icon and warlord Jan Zizka who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+			"popularity": 594.194,
+			"poster_path": "/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg",
+			"release_date": "2022-09-08",
+			"title": "Medieval",
+			"video": false,
+			"vote_average": 7.2,
+			"vote_count": 210
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+			"genre_ids": [
+				10752,
+				18,
+				28
+			],
+			"id": 49046,
+			"original_language": "de",
+			"original_title": "Im Westen nichts Neues",
+			"overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+			"popularity": 500.154,
+			"poster_path": "/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+			"release_date": "2022-10-07",
+			"title": "All Quiet on the Western Front",
+			"video": false,
+			"vote_average": 7.8,
+			"vote_count": 1045
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/pGx6O6IwqADOsgmqWzPysmWnOyr.jpg",
+			"genre_ids": [
+				28,
+				14
+			],
+			"id": 732459,
+			"original_language": "en",
+			"original_title": "Blade of the 47 Ronin",
+			"overview": "In this sequel to \"47 Ronin,\" a new class of warriors emerges among the Samurai clans to keep a sought-after sword from falling into the wrong hands.",
+			"popularity": 482.237,
+			"poster_path": "/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg",
+			"release_date": "2022-10-25",
+			"title": "Blade of the 47 Ronin",
+			"video": false,
+			"vote_average": 6.8,
+			"vote_count": 88
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/83IYtUhc7Vs8XYi5UYc2lUKuyMo.jpg",
+			"genre_ids": [
+				28,
+				12,
+				80,
+				9648,
+				53
+			],
+			"id": 873126,
+			"original_language": "it",
+			"original_title": "Il mio nome è vendetta",
+			"overview": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+			"popularity": 766.888,
+			"poster_path": "/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+			"release_date": "2022-11-30",
+			"title": "My Name Is Vendetta",
+			"video": false,
+			"vote_average": 6.8,
+			"vote_count": 123
+		}
+	],
+	"total_pages": 1741,
+	"total_results": 34815
+}
+]
